@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Currículo de Kauê Rodrigues de Oliveira Rocha">
+    <title>Currículo - Kauê Rodrigues de Oliveira Rocha</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Zilla+Slab:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --paper: #e8e4d8;
+            --paper-alt: #ddd8c8;
+            --card: #f2efe4;
+            --ink: #23241f;
+            --ink-soft: #5c5a4d;
+            --rule: #b7b09a;
+            --stamp: #a13d2b;
+            --moss: #5b6b4f;
+            --slab: "Zilla Slab", "Georgia", serif;
+            --mono: "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
+        }
+
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+
+        @media (prefers-reduced-motion: reduce) {
+            html { scroll-behavior: auto; }
+            * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+        }
+
+        body {
+            margin: 0;
+            background: var(--paper);
+            background-image: linear-gradient(var(--paper-alt) 1px, transparent 1px);
+            background-size: 100% 2.2rem;
+            color: var(--ink);
+            font-family: var(--mono);
+            font-size: 16px;
+            line-height: 1.7;
+        }
+
+        a { color: var(--stamp); text-decoration: none; border-bottom: 1px solid currentColor; }
+        a:hover { color: var(--ink); }
+        :focus-visible { outline: 2px solid var(--stamp); outline-offset: 3px; }
+
+        h1, h2, h3 { font-family: var(--slab); color: var(--ink); margin: 0; font-weight: 700; }
+        img, video, iframe { max-width: 100%; }
+        hr { border: none; border-top: 2px solid var(--ink); max-width: 900px; margin: 0 auto; }
+
+        header {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2.4rem 1.5rem 1.4rem;
+            border-bottom: 2px solid var(--ink);
+        }
+
+        header nav a { display: inline-block; margin-bottom: 1rem; font-size: 0.85rem; color: var(--ink-soft); border-bottom: 1px dotted var(--rule); }
+        header nav a:hover { color: var(--stamp); border-bottom-color: var(--stamp); }
+
+        header h1 { font-size: clamp(1.8rem, 4vw, 2.4rem); }
+        header p.role { color: var(--ink-soft); margin-top: 0.5rem; }
+
+        main { max-width: 900px; margin: 0 auto; padding: 0 1.5rem; }
+
+        section { padding: 2.8rem 0; border-bottom: 1px solid var(--rule); }
+        section:last-of-type { border-bottom: none; }
+
+        .section-tab {
+            display: inline-block;
+            background: var(--ink);
+            color: var(--paper);
+            font-size: 0.78rem;
+            padding: 0.25rem 0.7rem;
+            margin-bottom: 1rem;
+        }
+
+        section h2 { font-size: 1.4rem; margin-bottom: 1.2rem; }
+
+        ol.experiencias {
+            margin: 0;
+            padding-left: 1.3rem;
+            color: var(--ink-soft);
+        }
+
+        ol.experiencias li { margin-bottom: 0.5rem; }
+        ol.experiencias li::marker { color: var(--stamp); font-family: var(--mono); }
+
+        blockquote {
+            margin: 1.8rem 0 0;
+            border-left: 3px solid var(--stamp);
+            padding: 0.2rem 0 0.2rem 1.2rem;
+            background: var(--card);
+        }
+
+        blockquote h3 { font-size: 1rem; margin-bottom: 0.4rem; }
+        blockquote p { margin: 0; color: var(--ink); font-style: italic; }
+        blockquote footer { margin-top: 0.6rem; font-size: 0.82rem; color: var(--ink-soft); font-style: normal; }
+
+        dl {
+            margin: 1.8rem 0 0;
+            display: grid;
+            grid-template-columns: 90px 1fr;
+            row-gap: 0.6rem;
+            column-gap: 1rem;
+            font-size: 0.92rem;
+        }
+
+        dt { font-weight: 600; color: var(--ink); }
+        dd { margin: 0; color: var(--ink-soft); }
+
+        .projetos-grid {
+            display: grid;
+            gap: 1.8rem;
+        }
+
+        .media-block {
+            background: var(--card);
+            border: 1px solid var(--rule);
+            padding: 1.3rem;
+        }
+
+        .media-block p.label { margin: 0 0 0.8rem; font-size: 0.85rem; color: var(--ink-soft); }
+        video, audio, iframe { display: block; border: 1px solid var(--ink); }
+        video { width: 100%; height: auto; background: #000; }
+        audio { width: 100%; }
+        iframe { width: 100%; height: 260px; }
+
+        .project-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-top: 0.9rem;
+            font-size: 0.88rem;
+        }
+
+        .code-line {
+            color: var(--ink-soft);
+            max-width: 62ch;
+        }
+
+        code, kbd, samp {
+            font-family: var(--mono);
+            background: var(--paper-alt);
+            padding: 0.1rem 0.4rem;
+            border: 1px solid var(--rule);
+        }
+
+        kbd { border-bottom-width: 2px; }
+
+        footer.page-footer {
+            padding: 2rem 1.5rem 3rem;
+            max-width: 900px;
+            margin: 0 auto;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.2rem;
+            justify-content: space-between;
+            color: var(--ink-soft);
+            font-size: 0.82rem;
+        }
+
+        footer.page-footer address { font-style: normal; }
+    </style>
+</head>
+<body>
+    <header>
+        <nav><a href="./portifolio_03_09.html">&larr; Voltar ao portifólio</a></nav>
+        <h1>Currículo de Kauê Rodrigues de Oliveira Rocha</h1>
+        <p class="role">Estudante de Análise e Desenvolvimento de Sistemas · Brasília-DF</p>
+    </header>
+
+    <main>
+        <section id="experiencias">
+            <span class="section-tab">Trajetória</span>
+            <h2>Experiências profissionais</h2>
+            <ol class="experiencias">
+                <li>Ainda sem experiências profissionais registradas — em busca da primeira oportunidade de estágio na área de desenvolvimento (2026, período da tarde ou noite).</li>
+            </ol>
+
+            <blockquote>
+                <h3>Um lembrete pra mim mesmo</h3>
+                <p>Ainda estou no início, mas cada linha de código escrita é um passo a mais na direção certa.</p>
+                <footer>Kauê, sobre o próprio processo de aprendizado</footer>
+            </blockquote>
+
+            <dl>
+                <dt>W3C</dt>
+                <dd>Consórcio que define os padrões técnicos da web.</dd>
+                <dt>CSS</dt>
+                <dd>Linguagem usada para estilizar páginas HTML.</dd>
+                <dt>IDE</dt>
+                <dd>Ambiente de desenvolvimento integrado, como o VS Code.</dd>
+            </dl>
+        </section>
+
+        <section id="projetos">
+            <span class="section-tab">Projetos</span>
+            <h2>Projetos</h2>
+
+            <div class="projetos-grid">
+                <div class="media-block">
+                    <p class="label">Demonstração em vídeo: como usar a agenda da turma, do começo ao fim.</p>
+                    <video controls poster="./assets/img/capa-video.png">
+                        <source src="./assets/videos/video-demo.mp4" type="video/mp4">
+                        Seu navegador não suporta a reprodução de vídeo.
+                    </video>
+                    <div class="project-links">
+                        <a href="./agenda.html">Ver a agenda da turma</a>
+                        <a href="./calculadora-notas.html">Ver a calculadora de notas</a>
+                    </div>
+                </div>
+
+                <div class="media-block">
+                    <p class="label">O mesmo conteúdo, em áudio.</p>
+                    <audio controls>
+                        <source src="./assets/audios/audio-demo.mp3" type="audio/mpeg">
+                        Seu navegador não suporta a reprodução de áudio.
+                    </audio>
+                </div>
+
+                <div class="media-block">
+                    <p class="label">Localização: CEUB, campus Taguatinga II.</p>
+                    <iframe
+                        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBVizdQeh3udy11xDc5Ao2YStR2gLc-rfc&q=CEUB%20Taguatinga%20II%2C%20Bras%C3%ADlia%20-%20DF&maptype=roadmap&zoom=14"
+                        title="Mapa com a localização do CEUB, campus Taguatinga II"
+                        loading="lazy">
+                    </iframe>
+                </div>
+            </div>
+
+            <p class="code-line">Isso é um código java: <code>public class Aluno(){}</code>. Segure <kbd>Ctrl</kbd> para aparecer a mensagem <samp>Concluído com sucesso.</samp></p>
+        </section>
+    </main>
+
+    <hr>
+    <footer class="page-footer" aria-label="rodapé">
+        <address><abbr title="Centro Universitário de Brasília">CEUB</abbr> - Q 100, Brasília - DF. CEP: 700000</address>
+        <a href="./assets/img/mapa-do-site.svg" target="_blank" rel="noopener">Mapa do site</a>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,759 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 3786" width="1400" height="3786"
+     role="img" aria-label="Mapa do site do portfólio: o esqueleto comum às quatro páginas e, abaixo, uma coluna por arquivo. Cada bloco diz onde ele mora e lista as tags de abertura como no código, cada uma com os próprios atributos." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmZjNhYjBkMC00OTEzLTQ4MzktOTVmOC03MmQ4NWRlZDZlYWEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHTVG2N+PbR1fKDhF/pkxb4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1MmI2N2ViZC1hMjdiLTQ3NWUtYWI1MS0wMTNmYWRmMTBhMGNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoqsNF1UCtl5bNs27uDBVmGQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgghqdF3LRMvSU+fvEW2+zeKrcFAU5btNLVHP10FIt5cgykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPeVdcHB4T8kirT5gPYVZ/YAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIBYz92jYUxELaoK/PdY1eOP2U1BBAzDS93ogGcw9Ul+hZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQGMZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmZmM2FiMGQwLTQ5MTMtNDgzOS05NWY4LTcyZDg1ZGVkNmVhYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmNhNTc5YmYxLTE4MWItNDBlZi05YzRhLTVjYzMzMDQyZmQzN3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCGp0XctEy9JT5+8Rbb7N4qtwUBTlu00tUc/XQUi3lyDKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggmeB9WSTGB+6e2aU2SmCVlrPbh2ffnvfRxfrPpNoRXGCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggrQc5v6Vim2jZCSbPQRqOzeZGKF1ap2gnJUSh0VPuRlB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCvwxYHs1i9KJZStxAYJAz7pQ0GmleUa362nU9NPK61wfEWfiToxfpF8nD8g483F8sKc4V3tLbkW3fQDa2hYCZs=</c2pa:manifest></metadata>
+  <defs>
+    <style>
+      .bg     { fill: #FFFFFF; }
+      .titulo { font: 700 27px 'Segoe UI', system-ui, sans-serif; fill: #43054E; }
+      .sub    { font: 400 14px 'Segoe UI', system-ui, sans-serif; fill: #3A3144; }
+      .arq    { font: 700 14px 'Consolas', ui-monospace, monospace; fill: #FFFFFF; }
+      .bloco  { font: 700 12px 'Segoe UI', system-ui, sans-serif; fill: #43054E; }
+      .cont   { font: 700 10.5px 'Consolas', ui-monospace, monospace; fill: #1F7A4D; }
+      .tag    { font: 700 10.5px 'Consolas', ui-monospace, monospace; fill: #43054E; }
+      .attr   { font: 400 10.5px 'Consolas', ui-monospace, monospace; fill: #BF0086; }
+      .vezes  { font: 700 10px 'Segoe UI', system-ui, sans-serif; fill: #8A8490; }
+      .nota   { font: italic 400 10.5px 'Segoe UI', system-ui, sans-serif; fill: #6E5A76; }
+      .caixa  { fill: #F7F4F9; stroke: #D9CFE0; stroke-width: 1; }
+      .caixa-d{ fill: #FCE9F5; stroke: #EC0089; stroke-width: 1.5; }
+      .pag    { fill: #FFFFFF; stroke: #43054E; stroke-width: 2; }
+      .barra  { fill: #43054E; }
+      .seta2  { stroke: #BF0086; stroke-width: 2.5; fill: none; marker-end: url(#pt); marker-start: url(#pt0); }
+    </style>
+    <marker id="pt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#BF0086"/>
+    </marker>
+    <marker id="pt0" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M10,0 L0,5 L10,10 z" fill="#BF0086"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1400" height="3786"/>
+  <text class="titulo" x="40" y="46">Vamos fazer um site assim</text>
+  <text class="sub" x="40" y="72" xml:space="preserve">Cada bloco diz <tspan class="cont" font-size="13">onde ele mora</tspan> e lista as tags na ordem do arquivo, como no código: <tspan class="tag" font-size="13">&lt;tag</tspan><tspan class="attr" font-size="13"> atributo="valor"</tspan><tspan class="tag" font-size="13">&gt;</tspan>. O que está recuado mora dentro da tag de cima, até o fechamento.</text>
+  <text class="sub" x="40" y="94" xml:space="preserve"><tspan class="tag" font-size="13">…</tspan> = texto ou valor que não cabe aqui · <tspan class="vezes" font-size="12">×3</tspan> = aparece três vezes seguidas · bloco com fundo rosado = o que você escreve nesta aula.</text>
+
+  <rect class="pag" x="40" y="116" width="1320" height="236" rx="6"/>
+  <rect class="barra" x="40" y="116" width="1320" height="26" rx="6"/>
+  <rect class="barra" x="40" y="130" width="1320" height="12"/>
+  <text class="arq" x="54" y="134">o esqueleto — igual nas quatro páginas</text>
+  <rect class="caixa" x="54" y="156" width="420" height="80" rx="4"/>
+  <text class="bloco" x="66" y="174">A primeira linha, sempre</text>
+  <text x="66" y="192" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;!DOCTYPE html&gt;</tspan></text>
+  <text x="66" y="207" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;html</tspan><tspan class="attr"> lang="pt-BR"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text class="nota" x="66" y="224">o lang escolhe a voz do leitor de tela</text>
+  <rect class="caixa" x="494" y="156" width="420" height="155" rx="4"/>
+  <text class="bloco" x="506" y="174">head — o que o navegador precisa e NÃO desenha</text>
+  <text x="506" y="192" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;head</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="506" y="207" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;meta</tspan><tspan class="attr"> charset="UTF-8"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="506" y="222" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;meta</tspan><tspan class="attr"> name="viewport"</tspan><tspan class="attr"> content="…"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="506" y="237" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;meta</tspan><tspan class="attr"> name="description"</tspan><tspan class="attr"> content="…"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="506" y="252" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;title</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/title&gt;</tspan></text>
+  <text x="506" y="267" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;script</tspan><tspan class="attr"> src="…"</tspan><tspan class="attr"> defer</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">&lt;/script&gt;</tspan></text>
+  <text x="506" y="282" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/head&gt;</tspan></text>
+  <text class="nota" x="506" y="299">sem o charset, "Formação" vira "FormaÃ§Ã£o"</text>
+  <rect class="caixa" x="934" y="156" width="420" height="155" rx="4"/>
+  <text class="bloco" x="946" y="174">body — o que aparece na tela</text>
+  <text x="946" y="192" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;body</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="946" y="207" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;header</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/header&gt;</tspan></text>
+  <text x="946" y="222" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;main</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/main&gt;</tspan></text>
+  <text x="946" y="237" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;hr</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="946" y="252" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;footer</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/footer&gt;</tspan></text>
+  <text x="946" y="267" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/body&gt;</tspan></text>
+  <text x="946" y="282" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/html&gt;</tspan></text>
+  <text class="nota" x="946" y="299">um main por página: é para onde o "pular para o conteúdo" leva</text>
+  <rect class="pag" x="40" y="382" width="315" height="2589" rx="6"/>
+  <rect class="barra" x="40" y="382" width="315" height="26" rx="6"/>
+  <rect class="barra" x="40" y="396" width="315" height="12"/>
+  <text class="arq" x="54" y="400">portifolio.html</text>
+  <rect class="caixa" x="54" y="420" width="287" height="260" rx="4"/>
+  <text class="bloco" x="66" y="438">Cabeçalho e menu</text>
+  <text class="cont" x="66" y="454">body</text>
+  <text x="66" y="469" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;header</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="484" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h1</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h1&gt;</tspan></text>
+  <text x="66" y="499" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;nav</tspan><tspan class="attr"> aria-label="Principal"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="514" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="529" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×3</tspan></text>
+  <text x="66" y="544" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="#…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="66" y="559" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="66" y="574" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="66" y="589" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="….html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="66" y="604" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="66" y="619" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="66" y="634" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/nav&gt;</tspan></text>
+  <text x="66" y="649" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/header&gt;</tspan></text>
+  <text class="nota" x="66" y="666">href="#…" rola a página; href="arquivo" abre outra</text>
+  <rect class="caixa-d" x="54" y="688" width="287" height="290" rx="4"/>
+  <text class="bloco" x="66" y="706">Capa</text>
+  <text class="cont" x="66" y="722">body › main</text>
+  <text x="66" y="737" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="capa"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="752" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="767" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;span</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/span&gt;</tspan></text>
+  <text x="66" y="782" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="797" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/p&gt;</tspan></text>
+  <text x="66" y="812" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="827" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="contato.html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="66" y="842" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="857" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;picture</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="872" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;source</tspan><tspan class="attr"> media="(min-width: 800px)"</tspan></text>
+  <text x="66" y="887" xml:space="preserve"><tspan class="attr">        srcset="…"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="902" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;img</tspan><tspan class="attr"> src="…"</tspan><tspan class="attr"> alt="…"</tspan><tspan class="attr"> width="960"</tspan></text>
+  <text x="66" y="917" xml:space="preserve"><tspan class="attr">        height="320"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="932" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/picture&gt;</tspan></text>
+  <text x="66" y="947" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="66" y="964">o span só pinta; o botão é a, porque navega</text>
+  <rect class="caixa" x="54" y="986" width="287" height="230" rx="4"/>
+  <text class="bloco" x="66" y="1004">Sobre mim</text>
+  <text class="cont" x="66" y="1020">body › main</text>
+  <text x="66" y="1035" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="sobre"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1050" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="66" y="1065" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1080" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;em</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/em&gt;</tspan></text>
+  <text x="66" y="1095" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="1110" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1125" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;strong</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/strong&gt;</tspan></text>
+  <text x="66" y="1140" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;b</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/b&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="66" y="1155" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;i</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/i&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="66" y="1170" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="1185" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="66" y="1202">strong e em importam; b e i, só a forma</text>
+  <rect class="caixa-d" x="54" y="1224" width="287" height="320" rx="4"/>
+  <text class="bloco" x="66" y="1242">Projetos — três cartões</text>
+  <text class="cont" x="66" y="1258">body › main</text>
+  <text x="66" y="1273" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="projetos"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1288" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="66" y="1303" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;article</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×3</tspan></text>
+  <text x="66" y="1318" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="66" y="1333" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1348" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;time</tspan><tspan class="attr"> datetime="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/time&gt;</tspan></text>
+  <text x="66" y="1363" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="1378" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;figure</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1393" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;img</tspan><tspan class="attr"> src="…"</tspan><tspan class="attr"> alt="…"</tspan><tspan class="attr"> width="320"</tspan></text>
+  <text x="66" y="1408" xml:space="preserve"><tspan class="attr">          height="180"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1423" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;figcaption</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/figcaption&gt;</tspan></text>
+  <text x="66" y="1438" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/figure&gt;</tspan></text>
+  <text x="66" y="1453" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1468" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="projeto.html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="66" y="1483" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="1498" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/article&gt;</tspan></text>
+  <text x="66" y="1513" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="66" y="1530">a seção que o menu procurava e não achava</text>
+  <rect class="caixa-d" x="54" y="1552" width="287" height="184" rx="4"/>
+  <text class="bloco" x="66" y="1570">Recado ao lado</text>
+  <text class="cont" x="66" y="1586">body › main</text>
+  <text x="66" y="1601" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;aside</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1616" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="66" y="1631" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1646" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;mark</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/mark&gt;</tspan></text>
+  <text x="66" y="1661" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="1676" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1691" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;small</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/small&gt;</tspan></text>
+  <text x="66" y="1706" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="1721" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/aside&gt;</tspan></text>
+  <rect class="caixa" x="54" y="1744" width="287" height="305" rx="4"/>
+  <text class="bloco" x="66" y="1762">Formação — tabela</text>
+  <text class="cont" x="66" y="1778">body › main</text>
+  <text x="66" y="1793" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="formacao"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1808" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="66" y="1823" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;table</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1838" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;caption</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/caption&gt;</tspan></text>
+  <text x="66" y="1853" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;thead</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1868" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;tr</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1883" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;th</tspan><tspan class="attr"> scope="col"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/th&gt;</tspan><tspan class="vezes">  ×3</tspan></text>
+  <text x="66" y="1898" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/tr&gt;</tspan></text>
+  <text x="66" y="1913" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/thead&gt;</tspan></text>
+  <text x="66" y="1928" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;tbody</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="1943" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;tr</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="66" y="1958" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;td</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/td&gt;</tspan><tspan class="vezes">  ×3</tspan></text>
+  <text x="66" y="1973" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/tr&gt;</tspan></text>
+  <text x="66" y="1988" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/tbody&gt;</tspan></text>
+  <text x="66" y="2003" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/table&gt;</tspan></text>
+  <text x="66" y="2018" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="66" y="2035">scope="col": o cabeçalho manda na coluna</text>
+  <rect class="caixa-d" x="54" y="2057" width="287" height="365" rx="4"/>
+  <text class="bloco" x="66" y="2075">Links que saem da página</text>
+  <text class="cont" x="66" y="2091">body › main</text>
+  <text x="66" y="2106" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="links"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2121" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="66" y="2136" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2151" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2166" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="https://github.com/"</tspan></text>
+  <text x="66" y="2181" xml:space="preserve"><tspan class="attr">          target="_blank"</tspan><tspan class="attr"> rel="noopener"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2196" xml:space="preserve"><tspan class="tag">      …&lt;/a&gt;</tspan></text>
+  <text x="66" y="2211" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="66" y="2226" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2241" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="mailto:…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="66" y="2256" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="66" y="2271" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2286" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="tel:…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="66" y="2301" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="66" y="2316" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2331" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="curriculo.pdf"</tspan><tspan class="attr"> download</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2346" xml:space="preserve"><tspan class="tag">      …&lt;/a&gt;</tspan></text>
+  <text x="66" y="2361" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="66" y="2376" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="66" y="2391" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="66" y="2408">target e rel andam sempre juntos</text>
+  <rect class="caixa-d" x="54" y="2430" width="287" height="64" rx="4"/>
+  <text class="bloco" x="66" y="2448">Muda de assunto</text>
+  <text class="cont" x="66" y="2464">body</text>
+  <text x="66" y="2479" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;hr</tspan><tspan class="tag">&gt;</tspan></text>
+  <rect class="caixa-d" x="54" y="2502" width="287" height="455" rx="4"/>
+  <text class="bloco" x="66" y="2520">Rodapé</text>
+  <text class="cont" x="66" y="2536">body</text>
+  <text x="66" y="2551" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;footer</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2566" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;address</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2581" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;br</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2596" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;abbr</tspan><tspan class="attr"> title="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/abbr&gt;</tspan></text>
+  <text x="66" y="2611" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;br</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2626" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/address&gt;</tspan></text>
+  <text x="66" y="2641" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;nav</tspan><tspan class="attr"> aria-label="Rodapé"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2656" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2671" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2686" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="#sobre"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="66" y="2701" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="66" y="2716" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="66" y="2731" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="….html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="66" y="2746" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="66" y="2761" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="66" y="2776" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/nav&gt;</tspan></text>
+  <text x="66" y="2791" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2806" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;small</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/small&gt;</tspan></text>
+  <text x="66" y="2821" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="2836" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;div</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2851" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="66" y="2866" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;span</tspan><tspan class="attr"> data-ano="2026"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/span&gt;</tspan></text>
+  <text x="66" y="2881" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="66" y="2896" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/div&gt;</tspan></text>
+  <text x="66" y="2911" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="attr"> hidden</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/p&gt;</tspan></text>
+  <text x="66" y="2926" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/footer&gt;</tspan></text>
+  <text class="nota" x="66" y="2943">div e span: o último recurso</text>
+  <rect class="pag" x="375" y="382" width="315" height="2437" rx="6"/>
+  <rect class="barra" x="375" y="382" width="315" height="26" rx="6"/>
+  <rect class="barra" x="375" y="396" width="315" height="12"/>
+  <text class="arq" x="389" y="400">projeto.html</text>
+  <rect class="caixa-d" x="389" y="420" width="287" height="320" rx="4"/>
+  <text class="bloco" x="401" y="438">Cabeçalho — o mesmo menu</text>
+  <text class="cont" x="401" y="454">body</text>
+  <text x="401" y="469" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;header</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="484" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h1</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h1&gt;</tspan></text>
+  <text x="401" y="499" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;nav</tspan><tspan class="attr"> aria-label="Principal"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="514" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="529" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="544" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="portifolio.html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="401" y="559" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="401" y="574" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="589" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="…"</tspan><tspan class="attr"> aria-current="page"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="604" xml:space="preserve"><tspan class="tag">        …&lt;/a&gt;</tspan></text>
+  <text x="401" y="619" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="401" y="634" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="401" y="649" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="….html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="401" y="664" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="401" y="679" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="401" y="694" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/nav&gt;</tspan></text>
+  <text x="401" y="709" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/header&gt;</tspan></text>
+  <text class="nota" x="401" y="726">aria-current marca a página aberta</text>
+  <rect class="caixa-d" x="389" y="748" width="287" height="169" rx="4"/>
+  <text class="bloco" x="401" y="766">O projeto, por inteiro</text>
+  <text class="cont" x="401" y="782">body › main</text>
+  <text x="401" y="797" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;article</tspan><tspan class="attr"> id="agenda"</tspan></text>
+  <text x="401" y="812" xml:space="preserve"><tspan class="attr">    data-projeto="agenda-2026"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="827" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="401" y="842" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="857" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;time</tspan><tspan class="attr"> datetime="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/time&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="401" y="872" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="401" y="887" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="401" y="902" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="vezes">… continua no próximo bloco</tspan></text>
+  <rect class="caixa-d" x="389" y="925" width="287" height="245" rx="4"/>
+  <text class="bloco" x="401" y="943">Demonstração em mídia</text>
+  <text class="cont" x="401" y="959">body › main › article</text>
+  <text x="401" y="974" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;figure</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="989" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;img</tspan><tspan class="attr"> src="…"</tspan><tspan class="attr"> alt="…"</tspan><tspan class="attr"> width="640"</tspan></text>
+  <text x="401" y="1004" xml:space="preserve"><tspan class="attr">      height="360"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1019" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;figcaption</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/figcaption&gt;</tspan></text>
+  <text x="401" y="1034" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/figure&gt;</tspan></text>
+  <text x="401" y="1049" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;video</tspan><tspan class="attr"> controls</tspan><tspan class="attr"> width="640"</tspan><tspan class="attr"> poster="…"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1064" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;source</tspan><tspan class="attr"> src="…"</tspan><tspan class="attr"> type="video/mp4"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1079" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="…"</tspan><tspan class="attr"> download</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="401" y="1094" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/video&gt;</tspan></text>
+  <text x="401" y="1109" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;audio</tspan><tspan class="attr"> controls</tspan><tspan class="attr"> src="…"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1124" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="…"</tspan><tspan class="attr"> download</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="401" y="1139" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/audio&gt;</tspan></text>
+  <text class="nota" x="401" y="1156">o texto entre as tags é o plano B</text>
+  <rect class="caixa-d" x="389" y="1178" width="287" height="200" rx="4"/>
+  <text class="bloco" x="401" y="1196">Como o código ficou</text>
+  <text class="cont" x="401" y="1212">body › main › article</text>
+  <text x="401" y="1227" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="401" y="1242" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1257" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;code</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/code&gt;</tspan></text>
+  <text x="401" y="1272" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;kbd</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/kbd&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="401" y="1287" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;samp</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/samp&gt;</tspan></text>
+  <text x="401" y="1302" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="401" y="1317" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;pre</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1332" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;code</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/code&gt;</tspan></text>
+  <text x="401" y="1347" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/pre&gt;</tspan></text>
+  <text class="nota" x="401" y="1364">&amp;lt; e &amp;gt; mostram HTML sem executar</text>
+  <rect class="caixa-d" x="389" y="1386" width="287" height="200" rx="4"/>
+  <text class="bloco" x="401" y="1404">O que mudou na revisão</text>
+  <text class="cont" x="401" y="1420">body › main › article</text>
+  <text x="401" y="1435" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="401" y="1450" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1465" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;del</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/del&gt;</tspan></text>
+  <text x="401" y="1480" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;ins</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/ins&gt;</tspan></text>
+  <text x="401" y="1495" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="401" y="1510" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1525" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;sup</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/sup&gt;</tspan></text>
+  <text x="401" y="1540" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;sub</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/sub&gt;</tspan></text>
+  <text x="401" y="1555" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text class="nota" x="401" y="1572">m² · H₂O · a meta antiga riscada</text>
+  <rect class="caixa-d" x="389" y="1594" width="287" height="140" rx="4"/>
+  <text class="bloco" x="401" y="1612">Perguntas frequentes</text>
+  <text class="cont" x="401" y="1628">body › main › article</text>
+  <text x="401" y="1643" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="401" y="1658" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;details</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="401" y="1673" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;summary</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/summary&gt;</tspan></text>
+  <text x="401" y="1688" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/p&gt;</tspan></text>
+  <text x="401" y="1703" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/details&gt;</tspan></text>
+  <text class="nota" x="401" y="1720">abre e fecha sem JavaScript</text>
+  <rect class="caixa-d" x="389" y="1742" width="287" height="215" rx="4"/>
+  <text class="bloco" x="401" y="1760">Depoimento</text>
+  <text class="cont" x="401" y="1776">body › main › article</text>
+  <text x="401" y="1791" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="401" y="1806" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;blockquote</tspan><tspan class="attr"> cite="…"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1821" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/p&gt;</tspan></text>
+  <text x="401" y="1836" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;footer</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1851" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;cite</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/cite&gt;</tspan></text>
+  <text x="401" y="1866" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/footer&gt;</tspan></text>
+  <text x="401" y="1881" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/blockquote&gt;</tspan></text>
+  <text x="401" y="1896" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="1911" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;q</tspan><tspan class="attr"> cite="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/q&gt;</tspan></text>
+  <text x="401" y="1926" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text class="nota" x="401" y="1943">blockquote em bloco; q dentro da linha</text>
+  <rect class="caixa-d" x="389" y="1965" width="287" height="485" rx="4"/>
+  <text class="bloco" x="401" y="1983">Números do projeto</text>
+  <text class="cont" x="401" y="1999">body › main › article</text>
+  <text x="401" y="2014" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="401" y="2029" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;table</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2044" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;caption</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/caption&gt;</tspan></text>
+  <text x="401" y="2059" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;thead</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2074" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;tr</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2089" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;th</tspan><tspan class="attr"> scope="col"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/th&gt;</tspan><tspan class="vezes">  ×3</tspan></text>
+  <text x="401" y="2104" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/tr&gt;</tspan></text>
+  <text x="401" y="2119" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/thead&gt;</tspan></text>
+  <text x="401" y="2134" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;tbody</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2149" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;tr</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="401" y="2164" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;th</tspan><tspan class="attr"> scope="row"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/th&gt;</tspan></text>
+  <text x="401" y="2179" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;td</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/td&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="401" y="2194" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/tr&gt;</tspan></text>
+  <text x="401" y="2209" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;tr</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2224" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;th</tspan><tspan class="attr"> scope="row"</tspan><tspan class="attr"> rowspan="2"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/th&gt;</tspan></text>
+  <text x="401" y="2239" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;td</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/td&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="401" y="2254" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/tr&gt;</tspan></text>
+  <text x="401" y="2269" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;tr</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2284" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;td</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/td&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="401" y="2299" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/tr&gt;</tspan></text>
+  <text x="401" y="2314" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/tbody&gt;</tspan></text>
+  <text x="401" y="2329" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;tfoot</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2344" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;tr</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2359" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;th</tspan><tspan class="attr"> scope="row"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/th&gt;</tspan></text>
+  <text x="401" y="2374" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;td</tspan><tspan class="attr"> colspan="2"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/td&gt;</tspan></text>
+  <text x="401" y="2389" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/tr&gt;</tspan></text>
+  <text x="401" y="2404" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/tfoot&gt;</tspan></text>
+  <text x="401" y="2419" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/table&gt;</tspan></text>
+  <text class="nota" x="401" y="2436">o tfoot fecha a tabela com o total</text>
+  <rect class="caixa-d" x="389" y="2458" width="287" height="110" rx="4"/>
+  <text class="bloco" x="401" y="2476">Onde o projeto foi apresentado</text>
+  <text class="cont" x="401" y="2492">body › main › article</text>
+  <text x="401" y="2507" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="401" y="2522" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;iframe</tspan><tspan class="attr"> src="…"</tspan><tspan class="attr"> title="…"</tspan><tspan class="attr"> width="600"</tspan></text>
+  <text x="401" y="2537" xml:space="preserve"><tspan class="attr">    height="300"</tspan><tspan class="attr"> loading="lazy"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">&lt;/iframe&gt;</tspan></text>
+  <text class="nota" x="401" y="2554">o title é o que o leitor de tela anuncia</text>
+  <rect class="caixa-d" x="389" y="2576" width="287" height="229" rx="4"/>
+  <text class="bloco" x="401" y="2594">Rodapé</text>
+  <text class="cont" x="401" y="2610">body</text>
+  <text x="401" y="2625" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;footer</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2640" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2655" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;small</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/small&gt;</tspan></text>
+  <text x="401" y="2670" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="401" y="2685" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;nav</tspan><tspan class="attr"> aria-label="Rodapé"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2700" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="401" y="2715" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="401" y="2730" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="….html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="401" y="2745" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="401" y="2760" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="401" y="2775" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/nav&gt;</tspan></text>
+  <text x="401" y="2790" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/footer&gt;</tspan></text>
+  <rect class="pag" x="710" y="382" width="315" height="2410" rx="6"/>
+  <rect class="barra" x="710" y="382" width="315" height="26" rx="6"/>
+  <rect class="barra" x="710" y="396" width="315" height="12"/>
+  <text class="arq" x="724" y="400">curriculo.html</text>
+  <rect class="caixa-d" x="724" y="420" width="287" height="304" rx="4"/>
+  <text class="bloco" x="736" y="438">Cabeçalho — o mesmo menu</text>
+  <text class="cont" x="736" y="454">body</text>
+  <text x="736" y="469" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;header</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="484" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h1</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h1&gt;</tspan></text>
+  <text x="736" y="499" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;nav</tspan><tspan class="attr"> aria-label="Principal"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="514" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="529" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="736" y="544" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="….html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="736" y="559" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="736" y="574" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="589" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="curriculo.html"</tspan></text>
+  <text x="736" y="604" xml:space="preserve"><tspan class="attr">            aria-current="page"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="736" y="619" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="736" y="634" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="649" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="contato.html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="736" y="664" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="736" y="679" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="736" y="694" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/nav&gt;</tspan></text>
+  <text x="736" y="709" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/header&gt;</tspan></text>
+  <rect class="caixa-d" x="724" y="732" width="287" height="500" rx="4"/>
+  <text class="bloco" x="736" y="750">Trajetória, em ordem</text>
+  <text class="cont" x="736" y="766">body › main</text>
+  <text x="736" y="781" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="trajetoria"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="796" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="736" y="811" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;ol</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="826" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="841" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="736" y="856" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="871" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;time</tspan><tspan class="attr"> datetime="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/time&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="736" y="886" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="736" y="901" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/p&gt;</tspan></text>
+  <text x="736" y="916" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="736" y="931" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="946" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="736" y="961" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="976" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;time</tspan><tspan class="attr"> datetime="2026-02"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/time&gt;</tspan></text>
+  <text x="736" y="991" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="736" y="1006" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/p&gt;</tspan></text>
+  <text x="736" y="1021" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="736" y="1036" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1051" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="736" y="1066" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1081" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;time</tspan><tspan class="attr"> datetime="2026-08-20"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1096" xml:space="preserve"><tspan class="tag">        …&lt;/time&gt;</tspan></text>
+  <text x="736" y="1111" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="736" y="1126" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1141" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="projeto.html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="736" y="1156" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="736" y="1171" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="736" y="1186" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/ol&gt;</tspan></text>
+  <text x="736" y="1201" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="736" y="1218">a ordem importa: linha do tempo, não ul</text>
+  <rect class="caixa-d" x="724" y="1240" width="287" height="245" rx="4"/>
+  <text class="bloco" x="736" y="1258">Formação acadêmica</text>
+  <text class="cont" x="736" y="1274">body › main</text>
+  <text x="736" y="1289" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="formacao-academica"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1304" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="736" y="1319" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h3</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h3&gt;</tspan></text>
+  <text x="736" y="1334" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h4</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h4&gt;</tspan></text>
+  <text x="736" y="1349" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h5</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1364" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;abbr</tspan><tspan class="attr"> title="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/abbr&gt;</tspan></text>
+  <text x="736" y="1379" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/h5&gt;</tspan></text>
+  <text x="736" y="1394" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h6</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h6&gt;</tspan></text>
+  <text x="736" y="1409" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1424" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;strong</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/strong&gt;</tspan></text>
+  <text x="736" y="1439" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="736" y="1454" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="736" y="1471">níveis são hierarquia, não tamanho de letra</text>
+  <rect class="caixa-d" x="724" y="1493" width="287" height="350" rx="4"/>
+  <text class="bloco" x="736" y="1511">Competências — glossário</text>
+  <text class="cont" x="736" y="1527">body › main</text>
+  <text x="736" y="1542" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="competencias"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1557" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="736" y="1572" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;dl</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1587" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dt</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1602" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;abbr</tspan><tspan class="attr"> title="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/abbr&gt;</tspan></text>
+  <text x="736" y="1617" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/dt&gt;</tspan></text>
+  <text x="736" y="1632" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dd</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/dd&gt;</tspan></text>
+  <text x="736" y="1647" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dt</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1662" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;abbr</tspan><tspan class="attr"> title="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/abbr&gt;</tspan></text>
+  <text x="736" y="1677" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/dt&gt;</tspan></text>
+  <text x="736" y="1692" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dd</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/dd&gt;</tspan></text>
+  <text x="736" y="1707" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dt</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1722" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;abbr</tspan><tspan class="attr"> title="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/abbr&gt;</tspan></text>
+  <text x="736" y="1737" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/dt&gt;</tspan></text>
+  <text x="736" y="1752" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dd</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/dd&gt;</tspan></text>
+  <text x="736" y="1767" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dt</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/dt&gt;</tspan></text>
+  <text x="736" y="1782" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dd</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/dd&gt;</tspan></text>
+  <text x="736" y="1797" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/dl&gt;</tspan></text>
+  <text x="736" y="1812" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="736" y="1829">dt é o termo, dd a definição</text>
+  <rect class="caixa-d" x="724" y="1851" width="287" height="320" rx="4"/>
+  <text class="bloco" x="736" y="1869">Idiomas e notas</text>
+  <text class="cont" x="736" y="1885">body › main</text>
+  <text x="736" y="1900" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="idiomas"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1915" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="736" y="1930" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1945" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/li&gt;</tspan></text>
+  <text x="736" y="1960" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="1975" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;span</tspan><tspan class="attr"> lang="en"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/span&gt;</tspan></text>
+  <text x="736" y="1990" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;sup</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/sup&gt;</tspan></text>
+  <text x="736" y="2005" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="736" y="2020" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/li&gt;</tspan></text>
+  <text x="736" y="2035" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="736" y="2050" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2065" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;small</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2080" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;sup</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/sup&gt;</tspan></text>
+  <text x="736" y="2095" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/small&gt;</tspan></text>
+  <text x="736" y="2110" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="736" y="2125" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/p&gt;</tspan></text>
+  <text x="736" y="2140" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="736" y="2157">lang="en" troca a voz do leitor de tela</text>
+  <rect class="caixa-d" x="724" y="2179" width="287" height="184" rx="4"/>
+  <text class="bloco" x="736" y="2197">Levar o currículo</text>
+  <text class="cont" x="736" y="2213">body › main</text>
+  <text x="736" y="2228" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="baixar"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2243" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="736" y="2258" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2273" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="curriculo.pdf"</tspan><tspan class="attr"> download</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="736" y="2288" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="https://github.com/"</tspan></text>
+  <text x="736" y="2303" xml:space="preserve"><tspan class="attr">        target="_blank"</tspan><tspan class="attr"> rel="noopener"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2318" xml:space="preserve"><tspan class="tag">    …&lt;/a&gt;</tspan></text>
+  <text x="736" y="2333" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="736" y="2348" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <rect class="caixa-d" x="724" y="2371" width="287" height="64" rx="4"/>
+  <text class="bloco" x="736" y="2389">Muda de assunto</text>
+  <text class="cont" x="736" y="2405">body</text>
+  <text x="736" y="2420" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;hr</tspan><tspan class="tag">&gt;</tspan></text>
+  <rect class="caixa-d" x="724" y="2443" width="287" height="335" rx="4"/>
+  <text class="bloco" x="736" y="2461">Rodapé</text>
+  <text class="cont" x="736" y="2477">body</text>
+  <text x="736" y="2492" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;footer</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2507" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;address</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2522" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;br</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×3</tspan></text>
+  <text x="736" y="2537" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="mailto:…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="736" y="2552" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="tel:…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="736" y="2567" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/address&gt;</tspan></text>
+  <text x="736" y="2582" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;nav</tspan><tspan class="attr"> aria-label="Rodapé"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2597" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2612" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="736" y="2627" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="….html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="736" y="2642" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="736" y="2657" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="736" y="2672" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/nav&gt;</tspan></text>
+  <text x="736" y="2687" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="attr"> title="…"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="736" y="2702" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;small</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/small&gt;</tspan></text>
+  <text x="736" y="2717" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="736" y="2732" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="attr"> hidden</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/p&gt;</tspan></text>
+  <text x="736" y="2747" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/footer&gt;</tspan></text>
+  <text class="nota" x="736" y="2764">hidden tira da tela e do leitor de tela</text>
+  <rect class="pag" x="1045" y="382" width="315" height="3350" rx="6"/>
+  <rect class="barra" x="1045" y="382" width="315" height="26" rx="6"/>
+  <rect class="barra" x="1045" y="396" width="315" height="12"/>
+  <text class="arq" x="1059" y="400">contato.html</text>
+  <rect class="caixa-d" x="1059" y="420" width="287" height="259" rx="4"/>
+  <text class="bloco" x="1071" y="438">Cabeçalho — o mesmo menu</text>
+  <text class="cont" x="1071" y="454">body</text>
+  <text x="1071" y="469" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;header</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="484" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h1</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h1&gt;</tspan></text>
+  <text x="1071" y="499" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;nav</tspan><tspan class="attr"> aria-label="Principal"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="514" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="529" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×3</tspan></text>
+  <text x="1071" y="544" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="….html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="1071" y="559" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="1071" y="574" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="589" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="contato.html"</tspan></text>
+  <text x="1071" y="604" xml:space="preserve"><tspan class="attr">            aria-current="page"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="1071" y="619" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="1071" y="634" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="1071" y="649" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/nav&gt;</tspan></text>
+  <text x="1071" y="664" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/header&gt;</tspan></text>
+  <rect class="caixa-d" x="1059" y="687" width="287" height="229" rx="4"/>
+  <text class="bloco" x="1071" y="705">Chamada</text>
+  <text class="cont" x="1071" y="721">body › main</text>
+  <text x="1071" y="736" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="chamada"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="751" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="1071" y="766" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="781" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;time</tspan><tspan class="attr"> datetime="P2D"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/time&gt;</tspan></text>
+  <text x="1071" y="796" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="mailto:…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="1071" y="811" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="tel:…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="1071" y="826" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="841" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="856" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;strong</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/strong&gt;</tspan></text>
+  <text x="1071" y="871" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;em</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/em&gt;</tspan></text>
+  <text x="1071" y="886" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="901" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <rect class="caixa-d" x="1059" y="924" width="287" height="155" rx="4"/>
+  <text class="bloco" x="1071" y="942">O formulário</text>
+  <text class="cont" x="1071" y="958">body › main</text>
+  <text x="1071" y="973" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;section</tspan><tspan class="attr"> id="formulario"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="988" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="1071" y="1003" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;form</tspan><tspan class="attr"> action="obrigado.html"</tspan></text>
+  <text x="1071" y="1018" xml:space="preserve"><tspan class="attr">      method="post"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1033" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="vezes">… continua no próximo bloco</tspan></text>
+  <text x="1071" y="1048" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/section&gt;</tspan></text>
+  <text class="nota" x="1071" y="1065">action: para onde · method: como</text>
+  <rect class="caixa-d" x="1059" y="1087" width="287" height="575" rx="4"/>
+  <text class="bloco" x="1071" y="1105">Seus dados</text>
+  <text class="cont" x="1071" y="1121">body › main › section › form</text>
+  <text x="1071" y="1136" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;fieldset</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1151" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;legend</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/legend&gt;</tspan></text>
+  <text x="1071" y="1166" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1181" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="nome"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="1196" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="text"</tspan><tspan class="attr"> id="nome"</tspan></text>
+  <text x="1071" y="1211" xml:space="preserve"><tspan class="attr">        name="nome"</tspan><tspan class="attr"> required</tspan><tspan class="attr"> minlength="3"</tspan></text>
+  <text x="1071" y="1226" xml:space="preserve"><tspan class="attr">        maxlength="80"</tspan><tspan class="attr"> autocomplete="name"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1241" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="1256" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1271" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="email"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="1286" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="email"</tspan><tspan class="attr"> id="email"</tspan></text>
+  <text x="1071" y="1301" xml:space="preserve"><tspan class="attr">        name="email"</tspan><tspan class="attr"> required</tspan></text>
+  <text x="1071" y="1316" xml:space="preserve"><tspan class="attr">        placeholder="…"</tspan><tspan class="attr"> autocomplete="email"</tspan></text>
+  <text x="1071" y="1331" xml:space="preserve"><tspan class="attr">        aria-describedby="ajuda-email"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1346" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;span</tspan><tspan class="attr"> id="ajuda-email"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/span&gt;</tspan></text>
+  <text x="1071" y="1361" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="1376" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1391" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="telefone"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="1406" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="tel"</tspan><tspan class="attr"> id="telefone"</tspan></text>
+  <text x="1071" y="1421" xml:space="preserve"><tspan class="attr">        name="telefone"</tspan><tspan class="attr"> pattern="[0-9]{10,11}"</tspan></text>
+  <text x="1071" y="1436" xml:space="preserve"><tspan class="attr">        title="…"</tspan><tspan class="attr"> autocomplete="tel"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1451" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="1466" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1481" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="site"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="1496" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="url"</tspan><tspan class="attr"> id="site"</tspan></text>
+  <text x="1071" y="1511" xml:space="preserve"><tspan class="attr">        name="site"</tspan><tspan class="attr"> placeholder="…"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1526" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="1541" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1556" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="nascimento"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="1571" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="date"</tspan><tspan class="attr"> id="nascimento"</tspan></text>
+  <text x="1071" y="1586" xml:space="preserve"><tspan class="attr">        name="nascimento"</tspan><tspan class="attr"> min="1930-01-01"</tspan></text>
+  <text x="1071" y="1601" xml:space="preserve"><tspan class="attr">        max="2010-12-31"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1616" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="1631" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/fieldset&gt;</tspan></text>
+  <text class="nota" x="1071" y="1648">o for casa com o id, nunca com o name</text>
+  <rect class="caixa-d" x="1059" y="1670" width="287" height="575" rx="4"/>
+  <text class="bloco" x="1071" y="1688">Sobre o que você quer falar</text>
+  <text class="cont" x="1071" y="1704">body › main › section › form</text>
+  <text x="1071" y="1719" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;fieldset</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1734" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;legend</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/legend&gt;</tspan></text>
+  <text x="1071" y="1749" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1764" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="assunto"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="1779" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;select</tspan><tspan class="attr"> id="assunto"</tspan><tspan class="attr"> name="assunto"</tspan></text>
+  <text x="1071" y="1794" xml:space="preserve"><tspan class="attr">        required</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1809" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;option</tspan><tspan class="attr"> value=""</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/option&gt;</tspan></text>
+  <text x="1071" y="1824" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;optgroup</tspan><tspan class="attr"> label="Trabalho"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1839" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;option</tspan><tspan class="attr"> value="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/option&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="1071" y="1854" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/optgroup&gt;</tspan></text>
+  <text x="1071" y="1869" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;optgroup</tspan><tspan class="attr"> label="Estudo"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1884" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;option</tspan><tspan class="attr"> value="duvida"</tspan><tspan class="attr"> selected</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1899" xml:space="preserve"><tspan class="tag">        …&lt;/option&gt;</tspan></text>
+  <text x="1071" y="1914" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;option</tspan><tspan class="attr"> value="parceria"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="1929" xml:space="preserve"><tspan class="tag">        …&lt;/option&gt;</tspan></text>
+  <text x="1071" y="1944" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/optgroup&gt;</tspan></text>
+  <text x="1071" y="1959" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/select&gt;</tspan></text>
+  <text x="1071" y="1974" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="1989" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2004" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="tecnologia"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="2019" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="text"</tspan><tspan class="attr"> id="tecnologia"</tspan></text>
+  <text x="1071" y="2034" xml:space="preserve"><tspan class="attr">        name="tecnologia"</tspan><tspan class="attr"> list="techs"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2049" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;datalist</tspan><tspan class="attr"> id="techs"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2064" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;option</tspan><tspan class="attr"> value="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">&lt;/option&gt;</tspan><tspan class="vezes">  ×3</tspan></text>
+  <text x="1071" y="2079" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/datalist&gt;</tspan></text>
+  <text x="1071" y="2094" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="2109" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2124" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="mensagem"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="2139" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;textarea</tspan><tspan class="attr"> id="mensagem"</tspan></text>
+  <text x="1071" y="2154" xml:space="preserve"><tspan class="attr">        name="mensagem"</tspan><tspan class="attr"> rows="6"</tspan></text>
+  <text x="1071" y="2169" xml:space="preserve"><tspan class="attr">        maxlength="500"</tspan><tspan class="attr"> required</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2184" xml:space="preserve"><tspan class="tag">    &lt;/textarea&gt;</tspan></text>
+  <text x="1071" y="2199" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="2214" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/fieldset&gt;</tspan></text>
+  <text class="nota" x="1071" y="2231">nada entre as tags do textarea</text>
+  <rect class="caixa-d" x="1059" y="2253" width="287" height="350" rx="4"/>
+  <text class="bloco" x="1071" y="2271">Melhor horário</text>
+  <text class="cont" x="1071" y="2287">body › main › section › form</text>
+  <text x="1071" y="2302" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;fieldset</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2317" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;legend</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/legend&gt;</tspan></text>
+  <text x="1071" y="2332" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2347" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="radio"</tspan><tspan class="attr"> id="manha"</tspan></text>
+  <text x="1071" y="2362" xml:space="preserve"><tspan class="attr">        name="horario"</tspan><tspan class="attr"> value="manha"</tspan></text>
+  <text x="1071" y="2377" xml:space="preserve"><tspan class="attr">        checked</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2392" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="manha"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="2407" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="2422" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2437" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="radio"</tspan><tspan class="attr"> id="tarde"</tspan></text>
+  <text x="1071" y="2452" xml:space="preserve"><tspan class="attr">        name="horario"</tspan><tspan class="attr"> value="tarde"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2467" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="tarde"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="2482" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="2497" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2512" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="checkbox"</tspan><tspan class="attr"> id="copia"</tspan></text>
+  <text x="1071" y="2527" xml:space="preserve"><tspan class="attr">        name="copia"</tspan><tspan class="attr"> value="sim"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2542" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="copia"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="2557" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="2572" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/fieldset&gt;</tspan></text>
+  <text class="nota" x="1071" y="2589">o mesmo name faz um desmarcar o outro</text>
+  <rect class="caixa-d" x="1059" y="2611" width="287" height="335" rx="4"/>
+  <text class="bloco" x="1071" y="2629">Campos de apoio</text>
+  <text class="cont" x="1071" y="2645">body › main › section › form</text>
+  <text x="1071" y="2660" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2675" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="protocolo"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="2690" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="text"</tspan><tspan class="attr"> id="protocolo"</tspan></text>
+  <text x="1071" y="2705" xml:space="preserve"><tspan class="attr">      name="protocolo"</tspan><tspan class="attr"> value="2026-A-0001"</tspan></text>
+  <text x="1071" y="2720" xml:space="preserve"><tspan class="attr">      readonly</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2735" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="2750" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="hidden"</tspan><tspan class="attr"> name="origem"</tspan></text>
+  <text x="1071" y="2765" xml:space="preserve"><tspan class="attr">    value="pagina-contato"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2780" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2795" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="anexo"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="2810" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="file"</tspan><tspan class="attr"> id="anexo"</tspan></text>
+  <text x="1071" y="2825" xml:space="preserve"><tspan class="attr">      name="anexo"</tspan><tspan class="attr"> accept=".pdf"</tspan><tspan class="attr"> multiple</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2840" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="2855" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2870" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;label</tspan><tspan class="attr"> for="turma"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/label&gt;</tspan></text>
+  <text x="1071" y="2885" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;input</tspan><tspan class="attr"> type="text"</tspan><tspan class="attr"> id="turma"</tspan></text>
+  <text x="1071" y="2900" xml:space="preserve"><tspan class="attr">      name="turma"</tspan><tspan class="attr"> value="ADS-3N"</tspan><tspan class="attr"> disabled</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="2915" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text class="nota" x="1071" y="2932">readonly viaja; disabled não</text>
+  <rect class="caixa-d" x="1059" y="2954" width="287" height="125" rx="4"/>
+  <text class="bloco" x="1071" y="2972">O fecho</text>
+  <text class="cont" x="1071" y="2988">body › main › section › form</text>
+  <text x="1071" y="3003" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3018" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;button</tspan><tspan class="attr"> type="submit"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/button&gt;</tspan></text>
+  <text x="1071" y="3033" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;button</tspan><tspan class="attr"> type="reset"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/button&gt;</tspan></text>
+  <text x="1071" y="3048" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text class="nota" x="1071" y="3065">sem type, o padrão já é submit</text>
+  <rect class="caixa-d" x="1059" y="3087" width="287" height="274" rx="4"/>
+  <text class="bloco" x="1071" y="3105">Antes de escrever</text>
+  <text class="cont" x="1071" y="3121">body › main</text>
+  <text x="1071" y="3136" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;aside</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3151" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;h2</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/h2&gt;</tspan></text>
+  <text x="1071" y="3166" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;ol</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3181" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/li&gt;</tspan><tspan class="vezes">  ×3</tspan></text>
+  <text x="1071" y="3196" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/ol&gt;</tspan></text>
+  <text x="1071" y="3211" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;dl</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3226" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dt</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/dt&gt;</tspan></text>
+  <text x="1071" y="3241" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dd</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/dd&gt;</tspan></text>
+  <text x="1071" y="3256" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dt</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/dt&gt;</tspan></text>
+  <text x="1071" y="3271" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;dd</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/dd&gt;</tspan></text>
+  <text x="1071" y="3286" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/dl&gt;</tspan></text>
+  <text x="1071" y="3301" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3316" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;mark</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/mark&gt;</tspan></text>
+  <text x="1071" y="3331" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="3346" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/aside&gt;</tspan></text>
+  <rect class="caixa-d" x="1059" y="3369" width="287" height="349" rx="4"/>
+  <text class="bloco" x="1071" y="3387">Rodapé</text>
+  <text class="cont" x="1071" y="3403">body</text>
+  <text x="1071" y="3418" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;footer</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3433" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;address</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3448" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;br</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3463" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;abbr</tspan><tspan class="attr"> title="…"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/abbr&gt;</tspan></text>
+  <text x="1071" y="3478" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;br</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3493" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/address&gt;</tspan></text>
+  <text x="1071" y="3508" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;nav</tspan><tspan class="attr"> aria-label="Rodapé"</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3523" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;ul</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3538" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3553" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="#chamada"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="1071" y="3568" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="1071" y="3583" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;li</tspan><tspan class="tag">&gt;</tspan><tspan class="vezes">  ×2</tspan></text>
+  <text x="1071" y="3598" xml:space="preserve"><tspan class="tag">        </tspan><tspan class="tag">&lt;a</tspan><tspan class="attr"> href="….html"</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/a&gt;</tspan></text>
+  <text x="1071" y="3613" xml:space="preserve"><tspan class="tag">      </tspan><tspan class="tag">&lt;/li&gt;</tspan></text>
+  <text x="1071" y="3628" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;/ul&gt;</tspan></text>
+  <text x="1071" y="3643" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/nav&gt;</tspan></text>
+  <text x="1071" y="3658" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;p</tspan><tspan class="tag">&gt;</tspan></text>
+  <text x="1071" y="3673" xml:space="preserve"><tspan class="tag">    </tspan><tspan class="tag">&lt;small</tspan><tspan class="tag">&gt;</tspan><tspan class="tag">…&lt;/small&gt;</tspan></text>
+  <text x="1071" y="3688" xml:space="preserve"><tspan class="tag">  </tspan><tspan class="tag">&lt;/p&gt;</tspan></text>
+  <text x="1071" y="3703" xml:space="preserve"><tspan class="tag"></tspan><tspan class="tag">&lt;/footer&gt;</tspan></text>
+  <path class="seta2" d="M357 395 L 373 395"/>
+  <path class="seta2" d="M692 395 L 708 395"/>
+  <path class="seta2" d="M1027 395 L 1043 395"/>
+  <text class="nota" x="40" y="3752" font-size="12">O menu do cabeçalho é o mesmo nas quatro páginas — é ele que amarra o site. Cada página existe porque tem um conteúdo próprio; as tags vêm do conteúdo, não o contrário.</text>
+</svg>
